@@ -1,0 +1,14 @@
+DSDA 6-8
+
+Git init
+
+Git add
+
+Git connect
+
+Local - github 
+
+Connect
+
+Push - - upload on github. 
+
